@@ -11,7 +11,7 @@ Create all mobile splash page sizes instantly from your responsive HTML!
 
 ## Usage
 
-First, describe your splash page in HTML. Then, just pass the path to splasher.js like this:
+First, describe your splash page design and layout in HTML. Use media queries to arrange for the sizes you need. Then, just pass the path to splasher.js like this:
 
 ```
 ./splasher.js example.html
