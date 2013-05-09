@@ -29,6 +29,6 @@ Run the included example like this:
 
 Your generated images will be saved in the folder out/
 
-## How it works.
+## How it works
 
 Splasher opens an iframe with phantomjs. Your HTML is loaded into the iframe. Then for each size in defaults.json, Splasher resizes the iframe, waits one second, and takes a snapshot. The snapshots are saved according to the filenames in defaults.json.
