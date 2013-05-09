@@ -19,7 +19,7 @@ First, describe your splash page design and layout in HTML. Use whatever javascr
 
 Then, just pass the path to splasher.js.
 
-Generate splash screens from the example file like this:
+Run the included example like this:
 
 ```
 ./splasher.js example.html
@@ -27,7 +27,7 @@ Generate splash screens from the example file like this:
 
 ## Output
 
-Your default images will appear in the folder out/
+Your generated images will be saved in the folder out/
 
 ## How it works.
 
