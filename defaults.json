@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "Default-568h@2x.png",
+    "width": 640,
+    "height": 1136
+  },
+  {
+    "filename": "Default-Landscape.png",
+    "width": 1014,
+    "height": 748
+  },
+  {
+    "filename": "Default-Landscape@2x.png",
+    "width": 2028,
+    "height": 1496
+  },
+  {
+    "filename": "Default-Portrait.png",
+    "width": 768,
+    "height": 1004
+  },
+  {
+    "filename": "Default-Portrait@2x.png",
+    "width": 1536,
+    "height": 2008
+  },
+  {
+    "filename": "Default.png",
+    "width": 320,
+    "height": 480
+  },
+  {
+    "filename": "Default@2x.png",
+    "width": 640,
+    "height": 960
+  }
+]
