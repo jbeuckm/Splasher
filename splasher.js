@@ -77,7 +77,7 @@ function processNextDefaultSize() {
 
   setTimeout(function(){
 
-    page.render(size.filename);
+    page.render('out/'+size.filename);
 
     processNextDefaultSize();
 
