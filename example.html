@@ -9,22 +9,42 @@
       font-family: Arial, Helvetica, sans-serif;
     }
 
+
     .title {
       font-size: 72px;
       color: #fff;
       text-shadow: 3px 3px 4px #000;
     }
-    #main-logo {
-      width: 90%;
+
+    @media (max-width : 320px) {
+      .title {
+        font-size: 50px;
+      }
     }
-    #mnm-logo {
-      width: 20%;
+    #content {
+      margin-top: 15%;
+      position: relative;
     }
-    #logo-holder {
-      position: absolute;
-      text-align: center;
-      width: 100%;
-      bottom: 5px;
+    @media (min-width : 1000px) {
+    }
+
+
+    .plaque {
+      background-color: rgba(0,0,0,.5);
+      border-radius: 8px;
+      max-width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 10px;
+
+      color: #fff;
+      display:  inline-block;
+    }
+
+    #logo {
+      width: auto;
+      max-width: 80%;
+      max-height: 75%;
     }
 
   </style>
@@ -32,8 +52,19 @@
 
 <body>
 
-<span class='title'>SPLASHER</span>
-<h4>Mobile default images instantly from responsive HTML</h4>
+<div id="content">
+
+  <img id="logo" src="logo.svg"/>
+
+  <div class='title'>SPLASHER</div>
+
+  <div class="plaque">
+
+    <i>Mobile default images instantly from responsive HTML</i>
+
+  </div>
+
+</div>
 
 </body>
 

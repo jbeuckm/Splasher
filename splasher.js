@@ -81,6 +81,6 @@ function processNextDefaultSize() {
 
     processNextDefaultSize();
 
-  }, 500);
+  }, 1000);
 
 }
