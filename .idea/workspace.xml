@@ -31,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="matchbook.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="matchbook.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/matchbook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="0" selection-end="497" vertical-scroll-proportion="-1.92">
+            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.045845274">
               <folding />
             </state>
           </provider>
@@ -44,15 +44,6 @@
         <entry file="file://$PROJECT_DIR$/frame.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="-16.64">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="20" selection-start="402" selection-end="402" vertical-scroll-proportion="0.71346706">
               <folding />
             </state>
           </provider>
@@ -307,6 +298,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/splasher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="7" selection-start="1596" selection-end="1596" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="31" selection-start="50" selection-end="50" vertical-scroll-proportion="0.12834224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="402" selection-end="402" vertical-scroll-proportion="0.71346706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="-16.64">
@@ -316,21 +328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/matchbook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="0" selection-end="497" vertical-scroll-proportion="-1.92">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/splasher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="7" selection-start="1596" selection-end="1596" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="402" selection-end="402" vertical-scroll-proportion="0.71346706">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.045845274">
           <folding />
         </state>
       </provider>
