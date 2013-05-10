@@ -11,7 +11,7 @@ Create all mobile splash page sizes instantly from your responsive HTML!
 
 ##Settings
 
-Splasher will create a snapshot of your HTML page for each size+filename listed in defaults.json. The default sizes are based on what Titanium uses for iOS.
+Splasher will create a snapshot of your HTML page for each size+filename listed in defaults.json. The example defaults.json in this repo specifies the filenames and sizes used by Titanium for iOS default screen images.
 
 ## Usage
 
