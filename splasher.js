@@ -1,6 +1,7 @@
 #!/usr/bin/env phantomjs
 
-var htmlFile = '';
+var htmlFile;
+var configFile;
 
 /**
  * Identify the HTML file that will be used to render the splash images.
@@ -12,12 +13,13 @@ if (args.length === 1) {
 }
 else {
   htmlFile = args[1];
+  configFile = args[2] || './defaults.json';
 }
 
 /**
  * Load the splash pages size specs.
  */
-var defaults = require('./defaults.json');
+var config = require(configFile);
 
 var page = require('webpage').create();
 
@@ -56,12 +58,12 @@ page.open('./frame.html');
  */
 function processNextDefaultSize() {
 
-  if (defaults.length == 0) {
+  if (config.length == 0) {
     phantom.exit();
     return;
   }
 
-  var size = defaults.shift();
+  var size = config.shift();
 
 
   page.evaluate(function(size) {
