@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "primary_16.png",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "filename": "primary_75.png",
+    "width": 75,
+    "height": 75
+  },
+  {
+    "filename": "additional_128.png",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "filename": "web_banner.png",
+    "width": 155,
+    "height": 100
+  },
+  {
+    "filename": "cover_image.png",
+    "width": 800,
+    "height": 150
+  },
+  {
+    "filename": "small_editor_pick.png",
+    "width": 180,
+    "height": 115
+  },
+  {
+    "filename": "large_editor_pick.png",
+    "width": 394,
+    "height": 150
+  }
+]
