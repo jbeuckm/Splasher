@@ -1,0 +1,22 @@
+[
+    {
+        "filename": "android/res/drawable-ldpi/appicon.png",
+        "width": 36,
+        "height": 36
+    },
+    {
+        "filename": "android/res/drawable-mdpi/appicon.png",
+        "width": 48,
+        "height": 48
+    },
+    {
+        "filename": "android/res/drawable-hdpi/appicon.png",
+        "width": 72,
+        "height": 72
+    },
+    {
+        "filename": "android/res/drawable-xhdpi/appicon.png",
+        "width": 96,
+        "height": 96
+    }
+]

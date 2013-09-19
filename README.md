@@ -25,10 +25,10 @@ Run the included default page example like this:
 ./splasher.js example.html ./defaults.json
 ```
 
-Or generate the example app icon sizes like this:
+Or generate the example app iOS icon sizes like this:
 
 ```
-./splasher.js icons.html ./icons.json
+./splasher.js icons.html ./ios_icons.json
 ```
 
 Make your own config file to build whatever set of sizes your app needs.
