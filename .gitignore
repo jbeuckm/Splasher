@@ -3,3 +3,4 @@ M*.svg
 matchbook.html
 *.*~
 .*~
+node_modules

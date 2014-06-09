@@ -1,0 +1,27 @@
+{
+  "name": "Splasher",
+  "version": "0.1.0",
+  "description": "Generate arbitrarily sized versions of your (icon) image from responsive HTML.",
+  "main": "splasher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbeuckm/Splasher.git"
+  },
+  "keywords": [
+    "mobile",
+    "icon",
+    "phantomjs"
+  ],
+  "author": "Joe Beuckman",
+  "license": "Don't read software licenses. Don't write software licenses.",
+  "bugs": {
+    "url": "https://github.com/jbeuckm/Splasher/issues"
+  },
+  "homepage": "https://github.com/jbeuckm/Splasher",
+  "dependencies": {
+    "phantomjs": "^1.9.7-8"
+  }
+}
