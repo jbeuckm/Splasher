@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "apple_watch/appicon_nc_38mm.png",
+        "width": 48,
+        "height": 48
+  },
+    {
+        "filename": "apple_watch/appicon_nc_55mm.png",
+        "width": 55,
+        "height": 55
+  },
+    {
+        "filename": "apple_watch/appicon_comp@2x.png",
+        "width": 58,
+        "height": 58
+  },
+    {
+        "filename": "apple_watch/appicon_comp@3x.png",
+        "width": 87,
+        "height": 87
+  },
+    {
+        "filename": "apple_watch/appicon_hs.png",
+        "width": 80,
+        "height": 80
+  },
+    {
+        "filename": "apple_watch/appicon_ll.png",
+        "width": 88,
+        "height": 88
+  }
+]
